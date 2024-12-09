@@ -18,5 +18,11 @@
     {"id": 4, "image": "assets/images/doctor_card_2.png", "name": "Dr. Adrian Segara Bening", "speciality": "Surgeon", "medical_center":"Salemba Carolus Hospital", "rating": 4},
     {"id": 5, "image": "assets/images/doctor_card_1.png", "name": "Dr. Stella Kane", "speciality": "Dental", "medical_center":"Columbia Asia Hospital", "rating": 5},
     {"id": 6, "image": "assets/images/doctor_card_2.png", "name": "Dr. Adrian Segara Bening", "speciality": "Surgeon", "medical_center":"Salemba Carolus Hospital", "rating": 4}
+  ],
+  "services": [
+    {"id": 1, "icon": "assets/svg/diagnostic.svg", "name": "Diagnostic", "color": "#7166F9"},
+    {"id": 2, "icon": "assets/svg/dental.svg", "name": "Dental", "color": "#FF7854"},
+    {"id": 3, "icon": "assets/svg/surgeon.svg", "name": "Surgeon", "color": "#FEA725"},
+    {"id": 4, "icon": "assets/svg/medicines.svg", "name": "Medicines", "color": "#68EEBE"}, 
   ]
 }
