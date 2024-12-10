@@ -23,7 +23,6 @@
     {"id": 1, "icon": "assets/svg/diagnostic.svg", "name": "Diagnostic", "color": "7166F9"},
     {"id": 2, "icon": "assets/svg/dental.svg", "name": "Dental", "color": "FF7854"},
     {"id": 3, "icon": "assets/svg/surgeon.svg", "name": "Surgeon", "color": "FEA725"},
-    {"id": 4, "icon": "assets/svg/medicines.svg", "name": "Medicines", "color": "68EEBE"},
-    {"id": 5, "icon": "assets/svg/medicines.svg", "name": "Medicines", "color": "68EEBE"}
+    {"id": 4, "icon": "assets/svg/medicines.svg", "name": "Medicines", "color": "68EEBE"}
   ]
 }
