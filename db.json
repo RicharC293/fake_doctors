@@ -24,5 +24,97 @@
     {"id": 2, "icon": "assets/svg/dental.svg", "name": "Dental", "color": "FF7854"},
     {"id": 3, "icon": "assets/svg/surgeon.svg", "name": "Surgeon", "color": "FEA725"},
     {"id": 4, "icon": "assets/svg/medicines.svg", "name": "Medicines", "color": "68EEBE"}
+  ],
+  "products": [
+    {
+      "id" : 1,
+      "name" : "Producto 1",
+      "description" : "Descripción del producto 1",
+      "price" : 19.99,
+      "currency" : "USD",
+      "currency_symbol" : "$",
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-1.jpg"
+    },
+    {
+      "id" : 2,
+      "name" : "Producto 2",
+      "description" : "Descripción del producto 2",
+      "price" : 29.99,
+      "currency" : "USD",
+      "currency_symbol" : "$",
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-2.jpg"
+    },
+    {
+      "id" : 3,
+      "name" : "Producto 3",
+      "description" : "Descripción del producto 3",
+      "price" : 39.99,
+      "currency" : "USD",
+      "currency_symbol" : "$",
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-3.jpg"
+    },
+    {
+      "id" : 4,
+      "name" : "Producto 4",
+      "description" : "Descripción del producto 4",
+      "price" : 49.99,
+      "currency" : "USD",
+      "currency_symbol" : "$",
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-4.jpg"
+    },
+    {
+      "id" : 5,
+      "name" : "Producto 5",
+      "description" : "Descripción del producto 5",
+      "price" : 59.99,
+      "currency" : "USD",
+      "currency_symbol" : "$",
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-5.jpg"
+    },
+    {
+      "id" : 6,
+      "name" : "Producto 6",
+      "description" : "Descripción del producto 6",
+      "price" : 69.99,
+      "currency" : "USD",
+      "currency_symbol" : "$",
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-6.jpg"
+    },
+    {
+      "id" : 7,
+      "name" : "Producto 7",
+      "description" : "Descripción del producto 7",
+      "price" : 79.99,
+      "currency" : "USD",
+      "currency_symbol" : "$",
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-7.jpg"
+    },
+    {
+      "id" : 8,
+      "name" : "Producto 8",
+      "description" : "Descripción del producto 8",
+      "price" : 89.99,
+      "currency" : "USD",
+      "currency_symbol" : "$",
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-8.jpg"
+    },
+    {
+      "id" : 9,
+      "name" : "Producto 9",
+      "description" : "Descripción del producto 9",
+      "price" : 99.99,
+      "currency" : "USD",
+      "currency_symbol" : "$",
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-9.jpg"
+    },
+    {
+      "id" : 10,
+      "name" : "Producto 10",
+      "description" : "Descripción del producto 10",
+      "price" : 109.99,
+      "currency" : "USD",
+      "currency_symbol" : "$",
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-10.jpg"
+    }
   ]
 }
