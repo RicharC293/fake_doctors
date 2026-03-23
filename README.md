@@ -19,11 +19,6 @@ Base URL:
 
 Available resources from `db.json`:
 
-- `GET /posts`
-- `GET /posts/:id`
-- `GET /comments`
-- `GET /comments/:id`
-- `GET /profile`
 - `GET /doctors`
 - `GET /doctors/:id`
 - `GET /services`
@@ -33,17 +28,12 @@ Available resources from `db.json`:
 
 Examples:
 
-- `https://my-json-server.typicode.com/RicharC293/fake_doctors/posts`
-- `https://my-json-server.typicode.com/RicharC293/fake_doctors/comments`
-- `https://my-json-server.typicode.com/RicharC293/fake_doctors/profile`
 - `https://my-json-server.typicode.com/RicharC293/fake_doctors/doctors`
 - `https://my-json-server.typicode.com/RicharC293/fake_doctors/services`
 - `https://my-json-server.typicode.com/RicharC293/fake_doctors/products`
 
 Examples by id:
 
-- `https://my-json-server.typicode.com/RicharC293/fake_doctors/posts/1`
-- `https://my-json-server.typicode.com/RicharC293/fake_doctors/comments/1`
 - `https://my-json-server.typicode.com/RicharC293/fake_doctors/doctors/1`
 - `https://my-json-server.typicode.com/RicharC293/fake_doctors/services/1`
 - `https://my-json-server.typicode.com/RicharC293/fake_doctors/products/1`
