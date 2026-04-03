@@ -48,7 +48,7 @@
       "price" : 49.99,
       "currency" : "USD",
       "currency_symbol" : "$",
-      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-4.jpg"
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-4.webp"
     },
     {
       "id" : 5,
@@ -75,7 +75,7 @@
       "price" : 79.99,
       "currency" : "USD",
       "currency_symbol" : "$",
-      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-7.jpg"
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-7.webp"
     },
     {
       "id" : 8,
@@ -84,7 +84,7 @@
       "price" : 89.99,
       "currency" : "USD",
       "currency_symbol" : "$",
-      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-8.jpg"
+      "image": "https://raw.githubusercontent.com/RicharC293/fake_doctors/refs/heads/master/images/producto-8.webp"
     },
     {
       "id" : 9,
